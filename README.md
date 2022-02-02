@@ -1,2 +1,2 @@
 # go-moduling
-Practice making my own golang modules from official documentation
+Practice making my own go-lang modules from official documentation
